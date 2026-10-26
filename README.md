@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/33944000/README.md)
 # 智叟云集系统
-
+官网地址：https://yming.xin/
 ### 品牌 AI 智能监测与自动化采集系统
 
 智叟云集系统通过云手机自动化，采集多平台 AI 回答，整理回答正文、页面截图、对话分享链接和引用信源，为品牌描述核查、竞品观察与内容分析提供可追溯的数据基础。
@@ -222,10 +222,8 @@ PUBLICATION.md             # 仓库范围与发布说明
 
 本仓库不包含核心采集源码、真实设备地址、客户数据、登录密钥、授权签发工具或完整客户端。截图来自独立演示窗口，不含真实问答和客户记录。
 
-
-
+如有需要，请联系以下人员，获取Licensee
 <img width="1206" height="1548" alt="企业微信截图_17929816587809" src="https://github.com/user-attachments/assets/6613f6dd-6bb2-4871-a1d7-4fc3902f0e18" />
-
 
 
 
