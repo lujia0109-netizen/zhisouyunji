@@ -63,7 +63,6 @@ JSON 视图用于检查任务状态、回答、信源和截图路径。示例中
 ## 系统架构
 
 <img width="1758" height="1051" alt="企业微信截图_17929822545770" src="https://github.com/user-attachments/assets/efa45d5d-fcb1-4605-ad9e-84a302b007c7" />
-<img width="1733" height="905" alt="企业微信截图_17929822402268" src="https://github.com/user-attachments/assets/f9b3fd7d-74e4-4f46-b6dd-bbc8ad1b789d" />
 
 
 交互层负责输入与展示，执行层负责推进任务，平台适配层负责完成应用操作，证据层负责整理和保存输出。业务数据库、真实采集 HTTP 服务、对象存储上传及生产调度仍需接入。
